@@ -8,3 +8,10 @@ Example of a .gif output:
 
 ![demo gif](https://i.imgur.com/ZHqkf7N.gif)
 
+
+created by:
+
+F.Pettini
+F.Veneziano
+A.Zaccari
+
