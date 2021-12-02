@@ -11,7 +11,5 @@ Example of a .gif output:
 
 created by:
 
-F.Pettini
-F.Veneziano
-A.Zaccari
+F.Pettini, F.Veneziano, A.Zaccari
 
