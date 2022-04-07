@@ -8,7 +8,7 @@ This version provides a video-based demo (instead of a gif):
 
 ![demo gif](https://imgur.com/5CZtnAj.gif)
 
-Other demo are available <a href="https://drive.google.com/drive/folders/19_CpHtIcGjnDGUilf86XJyiZ85kFlNWM?usp=sharing"> HERE </a>,
+Other demo are available <a href="https://drive.google.com/drive/folders/19_CpHtIcGjnDGUilf86XJyiZ85kFlNWM?usp=sharing"> HERE </a>.
 
 If you want to test the model, first download the notebook (file .ipynb).
 
