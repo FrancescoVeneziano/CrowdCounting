@@ -8,6 +8,8 @@ Example of a .gif output:
 
 ![demo gif](https://i.imgur.com/ZHqkf7N.gif)
 
+A video version is available in the secondary branch.
+
 
 created by:
 
